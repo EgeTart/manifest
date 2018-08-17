@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://msstest-corp.sankuai.com/v1/mss_2e473d67a2a144f3bd8f2e22cf77c587/mt-reich-ops-package/ReichMobile_Dev_0.6.0_106_1534491395339.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>url</key>
+					<string>https://s3.meituan.net/v1/mss_f0b5d15aa7ea4fa2a440fcb8f4bdcfff/reich-app-version/shixun-58x58.png </string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>url</key>
+					<string>https://s3.meituan.net/v1/mss_f0b5d15aa7ea4fa2a440fcb8f4bdcfff/reich-app-version/shixun-512x512.png </string>
+				</dict>
+			</array>
+			<key>metadata</key>
+			<dict>
+				<key>bundle-identifier</key>
+				<string>com.meituan.shixun.dev</string>
+				<key>bundle-version</key>
+				<string>0.6.0</string>
+				<key>kind</key>
+				<string>software</string>
+				<key>title</key>
+				<string>shixun</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
